@@ -3,7 +3,10 @@ Original Montana Mask and Revisions Made Working with Delaware County District L
 
 We are fervently working on a 3D printed solution based on the design released by Billings Clinic Neurosurgeon, Dusty Richardson, MD, in collaboration with Billings-area dentist Spencer Zaugg, DDS and his son Colton. (https://www.billingsclinic.com/foundation/) 
 
-Our current need is to have these masks be able to pass a fit test showing that they are allowing through no unfiltered air.
+Our current need is to have these masks be able to pass a fit test showing that they are allowing through no unfiltered air. So far we have identified 2 issues that are allowing unfiltered air in our fit tests:
+
+- Unfiltered air infiltrating the gap between the filter and the filter hole.
+- Unfiltered air infiltrating the mask-to-face interface.
 
 The revisions made thus far are as follows:
 
